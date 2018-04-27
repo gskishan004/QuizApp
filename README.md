@@ -1,1 +1,1 @@
-# gskishan004.quiz.github.io
+# https://gskishan004.github.io/QuizApp/
